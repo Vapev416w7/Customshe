@@ -1,3 +1,4 @@
+if game.PlaceId == 6872265039 then
 --================== INIT ==================--
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Players = game:GetService("Players")
@@ -740,6 +741,7 @@ WorldTab:CreateSlider({
         nukerRange = Value
     end,
 })
+end
 
 if game.PlaceId == 71480482338212 then
 
