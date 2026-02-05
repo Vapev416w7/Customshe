@@ -1,4 +1,4 @@
-if game.PlaceId == 6872265039 then
+if game.PlaceId == 6872265039 or game.PlaceId == 8560631822 then
 --================== INIT ==================--
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Players = game:GetService("Players")
