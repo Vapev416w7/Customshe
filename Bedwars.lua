@@ -60,7 +60,7 @@ local killaura = {
     BypassValidation = true
 }
 
-local swordNames = {"frosty_hammer","emerald_sword", "diamond_sword", "iron_sword", "stone_sword", "wood_sword"}
+local swordNames = {"rageblade","frosty_hammer","emerald_sword", "diamond_sword", "iron_sword", "stone_sword", "wood_sword"}
 
 --// CACHED VARIABLES (NO LAG)
 local cachedInventory = nil
